@@ -31,3 +31,16 @@
     transform: rotate(360deg);
   }
 }
+.temperature{
+  padding-left:463px;
+}
+.inputBox{
+  width:350px;
+  height:40px;
+  border:2px solid grey
+}
+.btn1{
+  height:40px;
+  width:100px;
+  padding-top: 2px;
+}
